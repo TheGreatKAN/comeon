@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA2E1B419597273d7Df871A963691e5e1fF03E413",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0xA2E1B419597273d7Df871A963691e5e1fF03E413",
+  "NETWORK": {
+    "NAME": "BSC Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Infinite Heroes",
+  "SYMBOL": "IF2d",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
